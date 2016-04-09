@@ -1,0 +1,12 @@
+{
+  "/module2/": {
+    "path": "module2/module2.js",
+    "controller": "module2Controller",
+    "templateUrl": "module2/tpl.html"
+  },
+  "/module1": {
+    "path": "module1/module1.js",
+    "controller": "module1Controller",
+    "templateUrl": "module1/tpl.html"
+  }
+}
